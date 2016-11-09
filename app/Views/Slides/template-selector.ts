@@ -1,4 +1,4 @@
-import { ITemplateSelector } from "carousel-view";
+import { ITemplateSelector } from "nativescript-carousel-view";
 import builder = require("ui/builder");
 
 export class MyTemplateSelector implements ITemplateSelector {

@@ -5,3 +5,4 @@ hooks
 lib
 platforms
 node_modules
+.vscode

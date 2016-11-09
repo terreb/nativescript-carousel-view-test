@@ -1,5 +1,5 @@
-<StackLayout loaded="onLoaded" horizontalAlignment="center" padding="12">
+<StackLayout loaded="onLoaded" orientation="horizontal" backgroundColor="blue">
     <Label text="{{ first }}"/> 
-    <Label text="{{ last }}"/>
+    <Label text="{{ last }}" tap="test"/>
     <Button text="Remove me" tap="buttonTap"/> 
 </StackLayout>
