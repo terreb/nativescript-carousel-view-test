@@ -2,51 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e0f66e6-1f84-442a-b2d2-8ebbd1a78357" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/carousel-view/carousel-view-common.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/carousel-view/carousel-view.android.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/carousel-view/carousel-view.android.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/carousel-view/carousel-view.android.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/carousel-view/carousel-view.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/carousel-view/carousel-view.ios.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/carousel-view/carousel-view.ios.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/carousel-view/carousel-view.ios.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/CarouselView.xcodeproj/project.pbxproj" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/CarouselView/app/carousel-view/carousel-view.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/CarouselView/app/carousel-view/carousel-view.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/CarouselView/app/carousel-view/carousel-view.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/CarouselView/app/tns_modules/debugger/webinspector.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/build/CarouselView.build/Debug-iphonesimulator/CarouselView.build/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/build/CarouselView.build/Debug-iphonesimulator/CarouselView.build/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/build/CarouselView.build/Debug-iphonesimulator/CarouselView.build/Objects-normal/i386/CarouselView" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/build/CarouselView.build/Debug-iphonesimulator/CarouselView.build/Objects-normal/i386/CarouselView_dependency_info.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/build/CarouselView.build/Debug-iphonesimulator/CarouselView.build/Objects-normal/x86_64/CarouselView" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/build/CarouselView.build/Debug-iphonesimulator/CarouselView.build/Objects-normal/x86_64/CarouselView_dependency_info.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/build/CarouselView.build/Debug-iphonesimulator/CarouselView.build/dgph" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/CarouselView.app.dSYM/Contents/Resources/DWARF/CarouselView" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/CarouselView.app/Assets.car" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/CarouselView.app/CarouselView" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/CarouselView.app/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/CarouselView.app/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/CarouselView.app/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/CarouselView.app/app/carousel-view/carousel-view.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/CarouselView.app/app/carousel-view/carousel-view.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/CarouselView.app/app/carousel-view/carousel-view.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/CarouselView.app/app/tns_modules/debugger/webinspector.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/build/sharedpch/CarouselView-Prefix-abrdnkpahtsymxagcbtcllzibriu/CarouselView-Prefix.pch.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/build/sharedpch/CarouselView-Prefix-abrdnkpahtsymxagcbtcllzibriu/CarouselView-Prefix.pch.pch" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/build/sharedpch/CarouselView-Prefix-gxkuwhfslmmcgtcvkplwncnvebcy/CarouselView-Prefix.pch.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/build/sharedpch/CarouselView-Prefix-gxkuwhfslmmcgtcvkplwncnvebcy/CarouselView-Prefix.pch.pch" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/metadata-i386.bin" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/metadata-i386.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/metadata-x86_64.bin" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/metadata-x86_64.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Views/Slides/slider-view.ts" afterPath="$PROJECT_DIR$/app/Views/Slides/slider-view.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Views/Slides/slider-view.xml" afterPath="$PROJECT_DIR$/app/Views/Slides/slider-view.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Views/Slides/template-selector.ts" afterPath="$PROJECT_DIR$/app/Views/Slides/template-selector.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Views/main-page.ts" afterPath="$PROJECT_DIR$/app/Views/main-page.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Views/main-page.xml" afterPath="$PROJECT_DIR$/app/Views/main-page.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.css" afterPath="$PROJECT_DIR$/app/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/tns-core-modules/debugger/webinspector.ios.js" afterPath="$PROJECT_DIR$/node_modules/tns-core-modules/debugger/webinspector.ios.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="nativescript-carousel-view.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -92,8 +49,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            <state relative-caret-position="120">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -325,12 +282,12 @@
       <workItem from="1478515077107" duration="498000" />
       <workItem from="1478596117167" duration="267000" />
       <workItem from="1478700301091" duration="4269000" />
-      <workItem from="1478705858879" duration="240000" />
+      <workItem from="1478705858879" duration="511000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14548000" />
+    <option name="totallyTimeSpent" value="14819000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -732,8 +689,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        <state relative-caret-position="120">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
           <folding />
         </state>
       </provider>
