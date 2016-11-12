@@ -5,11 +5,9 @@
 
   <ActionBar title="Demo"/>
 
-  <GridLayout rows="100, *, 50">
-      <!--<ScrollView>-->
-      <controls:CarouselView row="0" id="carouselView" position="0" templateSelector="{{ templateSelector }}" itemsSource="{{ itemsSource }}"/>
-      <!--</ScrollView>-->
-      <Label text="TEST" row="1" height="100%" backgroundColor="red"/>
+  <GridLayout rows="100 * 50">
+      <controls:CarouselView row="0" id="carouselView" position="0" templateSelector="{{ templateSelector }}" height="100" itemsSource="{{ itemsSource }}"/>
+      <!--<Label text="test" height="100" row="0" backgroundColor="blue"/>-->
       <GridLayout row="2" columns="50, *, 50" rows="*" style.backgroundColor="lightgray">
           <Label tap="onPrev" text="Prev" row="0" col="0" style.textAlignment="center" style.verticalAlignment="center"/>
           <Label text="Add page" id="addPage" row="0" col="1" style.textAlignment="center" style.verticalAlignment="center"/>

@@ -12,6 +12,6 @@ export function onLoaded(args) {
     console.log('slide loaded')
 }
 
-export async function test() {
+export function test() {
     console.log('TEST')
 }

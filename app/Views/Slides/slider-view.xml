@@ -1,5 +1,5 @@
-<StackLayout loaded="onLoaded" orientation="horizontal" backgroundColor="blue">
-    <Label text="{{ first }}"/> 
-    <Label text="{{ last }}" tap="test"/>
-    <Button text="Remove me" tap="buttonTap"/> 
-</StackLayout>
+<GridLayout loaded="onLoaded" columns="* * *" height="100" backgroundColor="blue">
+    <Label text="{{ first }}" col="0"/>
+    <Label text="{{ last }}" tap="test" col="1"/>
+    <Button text="Remove me" tap="buttonTap" col="2"/>
+</GridLayout>

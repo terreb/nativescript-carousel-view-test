@@ -15,6 +15,8 @@ export function navigatingTo(args: EventData) {
 
     var slider = <CarouselView>page.getViewById("carouselView");
 
+    if (!slider) return
+
     slider.on("positionSelected", function(eventData){
         console.log(eventData.eventName + " has been raised! by: " + eventData.object);
     });
