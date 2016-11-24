@@ -1,5 +1,5 @@
-<GridLayout loaded="onLoaded" columns="* * *" height="100" backgroundColor="blue">
+<GridLayout loaded="onLoaded" columns="* * auto" class="layout" verticalAlignment="center">
     <Label text="{{ first }}" col="0"/>
-    <Label text="{{ last }}" tap="test" col="1"/>
+    <Label text="{{ last }}" tap="test" col="1" class="label"/>
     <Button text="Remove me" tap="buttonTap" col="2"/>
 </GridLayout>

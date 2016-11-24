@@ -13,7 +13,7 @@
     }
   },
   "dependencies": {
-    "nativescript-carousel-view": "^2.0.4",
+    "nativescript-carousel-view": "^2.0.7",
     "tns-core-modules": "2.3.0",
     "tns-platform-declarations": "2.2.0"
   },

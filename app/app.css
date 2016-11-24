@@ -16,3 +16,13 @@ button {
     margin: 0 20;
     text-align: center;
 }
+
+.layout {
+    background-color: aqua;
+    height: 100;
+    padding: 10;
+}
+
+.label {
+    color: red;
+}
